@@ -51,7 +51,12 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Blockchain/blob/master/bch(37).pdf" style="text-decoration:none;"> Encyclopedia of Space and Astronomy</a></b></li>
 
 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Blockchain/blob/master/bch(32).pdf" style="text-decoration:none;">Encyclopedia of Homeopathy </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Blockchain/blob/master/bch(34).pdf" style="text-decoration:none;">Encyclopedia of Occultism and Parapsychology </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Blockchain/blob/master/bch(38).pdf" style="text-decoration:none;">The Encyclopedia of Ancient Natural Scientists </a></b></li>
  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Blockchain/blob/master/bch(39).pdf" style="text-decoration:none;"> Human Body Encyclopedia</a></b></li>
+
  
  
  
