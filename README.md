@@ -99,14 +99,11 @@ Title page of&nbsp;<em>Lucubrationes</em>, 1541 edition, one of the first books 
 <li><a target="_blank" href="https://github.com/manjunath5496/Encyclopedia-Books/blob/master/ncy(50).pdf" style="text-decoration:none;">The Canadian Encyclopedia Of Natural Medicine </a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Encyclopedia-Books/blob/master/ncy(51).pdf" style="text-decoration:none;">The Internet Encyclopedia </a></li>
  
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
   </ul>
+  
+  <h2> </h2>
+  
+  
+  <div class="quotebox-quote left-aligned"><em>Indeed, the purpose of an encyclopedia is to collect knowledge disseminated around the globe; to set forth its general system to the men with whom we live, and transmit it to those who will come after us, so that the work of preceding centuries will not become useless to the centuries to come; and so that our offspring, becoming better instructed, will at the same time become more virtuous and happy, and that we should not die without having rendered a service to the human race in the future years to come.</em></div>
+<p>&minus;&nbsp;<cite class="left-aligned"><a title="Denis Diderot" href="https://en.wikipedia.org/wiki/Denis_Diderot">Diderot</a></cite></p>
+  
