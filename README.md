@@ -14,7 +14,7 @@ The volumes of the 15th edition of&nbsp;<em><a title="Encyclop&aelig;dia Britann
 <div class="thumbinner"><a class="image" href="Lucubrationes.jpg"><img class="thumbimage" src="Lucubrationes.jpg" srcset="Lucubrationes.jpg" alt="" width="220" height="292" data-file-width="462" data-file-height="614" /></a>
 <div class="thumbcaption">
 <div class="magnify">&nbsp;</div>
-Title page of&nbsp;<em>Lucubrationes</em>, 1541 edition, one of the first books to use a variant of the word&nbsp;<em>encyclopedia</em>&nbsp;in the title</div>
+Title page of&nbsp;<em>Lucubrationes</em>, 1541 edition, one of the first books to use a variant of the word&nbsp;<em>encyclopedia</em>&nbsp;in the title.</div>
 </div>
 </div>
 <p>&nbsp;</p>
