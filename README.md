@@ -2,7 +2,22 @@
 <p>Encyclopedias have existed for around 2,000 years and have evolved considerably during that time as regards to language (written in a major international or a vernacular language), size (few or many volumes), intent (presentation of a global or a limited range of knowledge), cultural perspective (authoritative, ideological, didactic, utilitarian), authorship (qualifications, style), readership (education level, background, interests, capabilities), and the technologies available for their production and distribution (hand-written manuscripts, small or large print runs, Internet). As a valued source of reliable information compiled by experts, printed versions found a prominent place in libraries, schools and other educational institutions.</p>
 <p>The appearance of&nbsp;<a title="Online encyclopedia" href="https://en.wikipedia.org/wiki/Online_encyclopedia">digital and open-source versions</a>&nbsp;in the 21st century has vastly expanded the accessibility, authorship, readership, and variety of encyclopedia entries.</p>
 </br>
-
+<div class="thumb tright">
+<div class="thumbinner"><a class="image" href="Encyclopaedia_Britannica_15_with_2002.jpg"><img class="thumbimage" src="Encyclopaedia_Britannica_15_with_2002.jpg" srcset="Encyclopaedia_Britannica_15_with_2002.jpg" alt="" width="300" height="286" data-file-width="776" data-file-height="739" /></a>
+<div class="thumbcaption">
+<div class="magnify">&nbsp;</div>
+The volumes of the 15th edition of&nbsp;<em><a title="Encyclop&aelig;dia Britannica" href="https://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica">Encyclop&aelig;dia Britannica</a></em>&nbsp;(plus the volume for the year 2002) span two bookshelves in a library.</div>
+<div class="thumbcaption">&nbsp;</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner"><a class="image" href="Lucubrationes.jpg"><img class="thumbimage" src="Lucubrationes.jpg" srcset="Lucubrationes.jpg" alt="" width="220" height="292" data-file-width="462" data-file-height="614" /></a>
+<div class="thumbcaption">
+<div class="magnify">&nbsp;</div>
+Title page of&nbsp;<em>Lucubrationes</em>, 1541 edition, one of the first books to use a variant of the word&nbsp;<em>encyclopedia</em>&nbsp;in the title</div>
+</div>
+</div>
+<p>&nbsp;</p>
 <h2> </h2>
 <ul>
 
